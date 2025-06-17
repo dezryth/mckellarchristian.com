@@ -7,6 +7,9 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://mckellarchristian.com',
   base: '/',
-  outDir: './docs', // Change the build output folder to 'docs'
 	integrations: [mdx(), sitemap()],
+  outDir: './docs', // Change the build output folder to 'docs'
+  build: {
+    assets: "assets",
+  },
 });
