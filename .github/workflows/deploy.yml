@@ -29,6 +29,9 @@ jobs:
       - name: Build Astro site
         run: npm run build # Runs the build command to generate docs/
 
+      - name: Add CNAME to docs # Ensure CNAME is in the docs/ folder
+        run: echo 'mckellarchristian.com' > docs/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
