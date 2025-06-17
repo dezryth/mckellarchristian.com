@@ -2,7 +2,7 @@
 title: 'Starting our Blog'
 description: 'Kicking off our blog with the first post'
 pubDate: 'Jul 08 2022'
-heroImage: '../../assets/images/EngagementPhoto.png'
+heroImage: '../../assets/EngagementPhoto.png'
 ---
 
 You found our family blog! We will be sharing pictures and stories of our lives together. Here's a couple fun facts for now:
