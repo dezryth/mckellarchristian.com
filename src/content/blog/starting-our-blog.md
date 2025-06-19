@@ -1,7 +1,7 @@
 ---
 title: 'Starting our Blog'
 description: 'Kicking off our blog with the first post'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jun 19 2025'
 heroImage: '../../assets/EngagementPhoto.png'
 ---
 
